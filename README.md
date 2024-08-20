@@ -29,11 +29,5 @@ AIFFEL_quest_rs
 .       └── README.md
 .
 └── GoingDeeper
-    ├── Ex01
-    .
-    .
-    .
-    └── Ex07
-        ├── .ipynb
-        └── README.md
+    └── README.md
 ```
