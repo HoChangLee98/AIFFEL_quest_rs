@@ -22,7 +22,7 @@ AIFFEL_quest_rs
 .
 ├── Exploration
 |   ├── Ex01
-|   .
+|   .   └── README.md
 |   .
 .   .
 .   └── Ex07
@@ -30,5 +30,11 @@ AIFFEL_quest_rs
 .       └── README.md
 .
 └── GoingDeeper
-    └── README.md
+    ├── GD01
+    .   └── README.md
+    .
+    .
+    └── GD07
+        ├── .ipynb
+        └── README.md
 ```
