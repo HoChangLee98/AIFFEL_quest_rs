@@ -1,6 +1,7 @@
 # AIFFEL_quest_rs
 
-* AIFFEL 과정 중 진행하는 프로젝트, 피어리뷰를 관리하는 Repository입니다.
+* 2024-08-13 ~ 2024-02-11
+* AIFFEL 과정 중 진행하는 프로젝트, 피어리뷰를 관리하는 Repository입니다.  
 
 ---  
 레포 구조: 
