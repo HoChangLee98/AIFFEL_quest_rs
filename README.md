@@ -1,3 +1,7 @@
+# fork_smaple_repo
+this repo is sample repo for 윤철희_그루  to practice fork
+# add a new comment 
+
 # AIFFEL_quest_rs
 
 * 2024-08-13 ~ 2024-02-11
